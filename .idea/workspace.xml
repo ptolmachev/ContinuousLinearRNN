@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b25d58d-ea48-4910-b061-9341fc28c231" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +44,18 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.running_oscillation">
-    <configuration name="RNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.RNN">
+    <configuration name="RNN" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ContinuousLinearRNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,28 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find_oscillations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ContinuousLinearRNN" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\betad\anaconda3\envs\pycharm\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/find_oscillations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="running_oscillation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="running_oscillation" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ContinuousLinearRNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stability_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stability_analysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ContinuousLinearRNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="state_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="state_function" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ContinuousLinearRNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,15 +139,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.running_oscillation" />
-        <item itemvalue="Python.state_function" />
-        <item itemvalue="Python.stability_analysis" />
-        <item itemvalue="Python.RNN" />
-        <item itemvalue="Python.find_oscillations" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Python.RNN" />
+      <item itemvalue="Python.running_oscillation" />
+      <item itemvalue="Python.stability_analysis" />
+      <item itemvalue="Python.state_function" />
+      <item itemvalue="Python.find_oscillations" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -199,26 +178,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="270" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1610512766773" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610504739528">
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610513358024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610504739528" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1610512788320">
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610513358024" />
+    <state x="519" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610513230410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610512788320" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1610512788320">
+    <state x="519" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610513230410" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1610513286617">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610512788320" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1610512788320">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1610513286617" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610513344755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610512788320" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1610512788320">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610513344755" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1610513431029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610512788320" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610513431029" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1610513431029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610513431029" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1610513431029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610513431029" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1610513431029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610513431029" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1610458775697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -235,10 +226,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610458775697" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1610512747467">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1610513475253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610512747467" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610513475253" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610513373435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1610513373435" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
