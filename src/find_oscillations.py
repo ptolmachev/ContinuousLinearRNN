@@ -14,7 +14,7 @@ import pickle
 import os
 
 N = 5
-lmbd = 0.5
+lmbd = 0.2
 k = 0.01 # k should not be too big
 dt = 0.1
 stable = 1
